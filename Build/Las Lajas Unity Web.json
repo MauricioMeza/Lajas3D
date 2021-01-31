@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "MyFirstGame",
-"productVersion": "1.0",
+"companyName": "MauroMeza",
+"productName": "Lajas-TourVirtual",
+"productVersion": "0.1",
 "dataUrl": "Las Lajas Unity Web.data.unityweb",
 "wasmCodeUrl": "Las Lajas Unity Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "Las Lajas Unity Web.wasm.framework.unityweb",
